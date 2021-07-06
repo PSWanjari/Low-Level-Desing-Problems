@@ -1,2 +1,2 @@
 # Low-Level-Desing-Problems
-The repository contains the LLD problem statement and solution 
+The repository contains LLD problem statements and solutions
